@@ -14,7 +14,7 @@ All survice are avaliable for IPv6 visiters: https://data-contest.net9.org/ .
 ### Cautions for Data Submission
 Please be aware that the judgement program has already made a time shift for -5 channels (roughly equal to the time difference between a incoming photon and its electronic pulse peak), in order to simplify the time signal detection problem.     
 The training and judgement datasets for the PlayGround are not generated under the same parameter, so a minor additional error may exists to worsen the processing scores.  
-**The results are judged by Wasserstein Distance, which means all weight distribution will be normalized.** The absolute quantities of the output is unimportant, only a division by a factor is needed to make a perfect match to the Ground Truth.     
+**The results are judged by Wasserstein Distance, which means all weight distribution will be normalized.** The absolute quantities of the output is unimportant, because only an additional division by an amplitude factor is needed to make a perfect magnitude match to the Ground Truth.     
 We also encourage adding a L1-loss to our wasserstein loss, but this will worsen the Wasserstein Score.  
 **Wasserstein Distance Score: The smaller, the better.**
 
