@@ -43,7 +43,7 @@ Further explorations are encouraged.
 &nbsp;  
 
 ### Results
-Our model has balanced the result generation speed and the training accuracy. Till now (2019.07), we have submitted the best result in all the three evaluation tests. (Submissions later than Jun.02 are not ranked on the leaderboard for the First and Final Contest, since the contest has ended)
+Our model has balanced the result generation speed and the training accuracy. Till now (2019.07), we have submitted the best result in all the three evaluation tests. (Submissions later than Jun.02 are not ranked on the leaderboard for the First and Final Contest, since the contest has ended. )
 
 | Test | Generation Time | Wasserstein Score|2nd Best |
 |---|---|---|---|
