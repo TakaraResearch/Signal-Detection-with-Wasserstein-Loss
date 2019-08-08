@@ -38,7 +38,7 @@ Further explorations are encouraged.
 |Data_Processing.py:           |Neural Network training for the first round | train, update and save network parameters  
 |Continue_Training.py:         |Continue Neural Network training | load, train, update and save network parameters
 |Prediction_Pre-Processing.py: |Pre-Processing for data to be "Predicted" | Transfer .h5 data into numpy vectors and save as .npz
-|Prediction_Processing_Total.py|Make "Prediction" based on the trained network model| Generate photon result and transfer it into a .h5 file
+|Prediction_Processing_Total.py:|Make "Prediction" based on the trained network model| Generate photon result and transfer it into a .h5 file
 
 &nbsp;  
 
@@ -50,7 +50,7 @@ Our model has balanced the result generation speed and the training accuracy. Ti
 |PlayGround | ~1min 1CPU | 1.137 | 2.031 |
 |First Contest | ~20min 3CPU | 0.965 | 1.396 |
 |Final Contest | ~20min 3CPU | 0.852 | 1.219 |
-|Alpha PMT| ~60min 1CPU | 0.596 | 1.474 |
+|Alpha PMT | ~60min 1CPU | 0.596 | 1.474 |
 
 CPU: Intel(R) Core(TM) i7-6500U CPU @ 2.50GHz   
 *If more CPU kernels or GPU kernels are used, the training and generation speed will be significantly higher.*
