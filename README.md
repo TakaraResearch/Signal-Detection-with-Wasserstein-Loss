@@ -49,7 +49,7 @@ Our model has balanced the result generation speed and the training accuracy. Ti
 |---|---|---|---|
 |PlayGround | ~1min 1CPU | 1.137 | 2.031 |
 |First Contest | ~20min 3CPU | 0.965 | 1.396 |
-|Final Contest | ~20min 3CPU | 0.852 | 1.219 |
+|Final Contest | ~20min 3CPU | 0.852 | 1.080 |
 |Alpha PMT | ~60min 1CPU | 0.596 | 1.474 |
 
 CPU: Intel(R) Core(TM) i7-6500U CPU @ 2.50GHz   
